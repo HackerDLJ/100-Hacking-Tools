@@ -1,7 +1,7 @@
 # 100 Hacking Tools
 100 Top Ethical Hacking Tools and Software Tools In Cybersecurity
 
-<a href="https://trendshift.io/repositories/5584" target="_blank"><img src="https://trendshift.io/api/badge/repositories/5584" alt="LeCoupa%2Fawesome-cheatsheets | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://github.com/HackerDLJ/100-Hacking-Tools-.git" target="_blank"><img src="https://trendshift.io/api/badge/repositories/5584" alt="LeCoupa%2Fawesome-cheatsheets | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 ## What is Ethical Hacking?
 
