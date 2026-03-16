@@ -1,6 +1,8 @@
 # 100 Hacking Tools
 100 Top Ethical Hacking Tools and Software Tools In Cybersecurity
 
+<a href="https://trendshift.io/repositories/5584" target="_blank"><img src="https://trendshift.io/api/badge/repositories/5584" alt="LeCoupa%2Fawesome-cheatsheets | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 ## What is Ethical Hacking?
 
   Ethical hacking (also called white-hat hacking) is a type of hacking in which the hacker has good intentions and the full permission of the target of their attacks. Ethical hacking can help organizations find and fix security vulnerabilities before real attackers can exploit them. If you’re interested in ethical hacking, the good news is that there’s a wealth of hacking tools you can use to learn the trade. This article will go over dozens of the top hacking tools and ethical hacking tools so that you can get started exploring.
